@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I started to blog this year in [dev.to](https://dev.to/tomeraitz) and [Bugfender](https://bugfender.com/blog/author/tomerraitz/).
+- 🔭 &nbsp; I started to blog this year in [dev.to](https://dev.to/tomeraitz).
 - 🤔 &nbsp; I’m currently learning Nestjs.
 - 🎓 &nbsp;  Bachelor of Science in Information Technology degree and Full-Stack developer Bootcamp graduate.
 - 💼 &nbsp; Full Stack Developer.
