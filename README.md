@@ -34,10 +34,11 @@
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React design patterns (part 2)](https://dev.to/tomeraitz/react-design-patterns-part-2-53bl)
+- [React Design Patterns (Part 1)](https://dev.to/tomeraitz/react-design-patterns-part-1-aj1)
 - [React Hooks Common Mistakes](https://dev.to/tomeraitz/react-hooks-common-mistakes-3494)
 - [Tricky JavaScript Questions](https://dev.to/tomeraitz/tricky-javascript-questions-7nk)
 - [6 ways to improve Lighthouse](https://dev.to/tomeraitz/6-ways-to-improve-lighthouse-1apl)
-- [How to upload and customize images using sharp in Node.js](https://dev.to/tomeraitz/how-to-upload-and-customize-images-using-sharp-in-node-js-3mke)
 <!-- BLOG-POST-LIST:END -->
 
 
