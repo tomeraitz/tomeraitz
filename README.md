@@ -34,11 +34,11 @@
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🌟🚀 Calling all R&amp;D VPs and CTOs in Medium Startups 🚀🌟](https://dev.to/tomeraitz/calling-all-rd-vps-and-ctos-in-medium-startups-3d0i)
 - [Diverse vs. Specialist Developers: Embracing Change and Expanding Horizons](https://dev.to/tomeraitz/from-javascript-to-python-27l6)
 - [The Right Mindset To Solve Complex Problems](https://dev.to/tomeraitz/the-right-mindset-to-solve-complex-problems-1gc6)
 - [React design patterns &lpar;part 2&rpar;](https://dev.to/tomeraitz/react-design-patterns-part-2-53bl)
 - [React Design Patterns &lpar;Part 1&rpar;](https://dev.to/tomeraitz/react-design-patterns-part-1-aj1)
-- [React Hooks Common Mistakes](https://dev.to/tomeraitz/react-hooks-common-mistakes-3494)
 <!-- BLOG-POST-LIST:END -->
 
 
