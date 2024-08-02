@@ -35,10 +35,10 @@
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Tricky Python Questions](https://dev.to/tomeraitz/tricky-python-questions-45gg)
-- [🌟🚀 Calling all R&amp;D VPs and CTOs in Medium Startups 🚀🌟](https://dev.to/tomeraitz/calling-all-rd-vps-and-ctos-in-medium-startups-3d0i)
 - [Diverse vs. Specialist Developers: Embracing Change and Expanding Horizons](https://dev.to/tomeraitz/from-javascript-to-python-27l6)
 - [The Right Mindset To Solve Complex Problems](https://dev.to/tomeraitz/the-right-mindset-to-solve-complex-problems-1gc6)
 - [React design patterns &lpar;part 2&rpar;](https://dev.to/tomeraitz/react-design-patterns-part-2-53bl)
+- [React Design Patterns &lpar;Part 1&rpar;](https://dev.to/tomeraitz/react-design-patterns-part-1-aj1)
 <!-- BLOG-POST-LIST:END -->
 
 
