@@ -34,11 +34,11 @@
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built a New Tool for Claude Code That’ll Save You Time —Here’s Why You Should Try It](https://dev.to/tomeraitz/i-built-a-new-tool-for-claude-code-thatll-save-you-time-heres-why-you-should-try-it-p9a)
 - [Tricky Python Questions](https://dev.to/tomeraitz/tricky-python-questions-45gg)
 - [Diverse vs. Specialist Developers: Embracing Change and Expanding Horizons](https://dev.to/tomeraitz/from-javascript-to-python-27l6)
 - [The Right Mindset To Solve Complex Problems](https://dev.to/tomeraitz/the-right-mindset-to-solve-complex-problems-1gc6)
 - [React design patterns &lpar;part 2&rpar;](https://dev.to/tomeraitz/react-design-patterns-part-2-53bl)
-- [React Design Patterns &lpar;Part 1&rpar;](https://dev.to/tomeraitz/react-design-patterns-part-1-aj1)
 <!-- BLOG-POST-LIST:END -->
 
 
