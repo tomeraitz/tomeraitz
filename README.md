@@ -4,28 +4,25 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I started to blog this year in [dev.to](https://dev.to/tomeraitz).
-- 🤔 &nbsp; I’m currently learning Nestjs.
-- 🎓 &nbsp;  Bachelor of Science in Information Technology degree and Full-Stack developer Bootcamp graduate.
-- 💼 &nbsp; Full Stack Developer.
-- 🌱 &nbsp; Enthusiast in building complex UI projects with implementation of best practices.
+- 🔭 &nbsp; Creator of [Vibki](https://vibki.com), a technical blog exploring AI engineering best practices.
+- 🤖 &nbsp; Senior AI Platform Engineer with 7 years of development experience, including 3+ years building production AI systems.
+- 🎓 &nbsp; B.Sc. in Information Systems from The Academic College of Tel Aviv-Jaffa.
+- 💼 &nbsp; Currently building end-to-end computer vision tagging platforms and leading backend infrastructure for LLM-powered chatbots.
+- 🌱 &nbsp; Passionate about multi-agent architectures, context engineering, RAG pipelines, and prompt optimization.
 - ☕ &nbsp; I believe in elegant solutions for complex problems. 
 
 <h3>🛠 Languages and Tools</h3>
 <div>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-    <img src="https://img.icons8.com/cute-clipart/48/000000/react-native.png"/>
-    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    <img src="https://img.icons8.com/ios/48/000000/sql.png"/>
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-    <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/django.png"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+  <img src="https://img.icons8.com/ios/48/000000/sql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 </div>
 <br>
 </br>
@@ -34,7 +31,7 @@
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a New Tool for Claude Code That’ll Save You Time —Here’s Why You Should Try It](https://dev.to/tomeraitz/i-built-a-new-tool-for-claude-code-thatll-save-you-time-heres-why-you-should-try-it-p9a)
+- [I Built a New Tool for Claude Code That'll Save You Time —Here's Why You Should Try It](https://dev.to/tomeraitz/i-built-a-new-tool-for-claude-code-thatll-save-you-time-heres-why-you-should-try-it-p9a)
 - [Tricky Python Questions](https://dev.to/tomeraitz/tricky-python-questions-45gg)
 - [Diverse vs. Specialist Developers: Embracing Change and Expanding Horizons](https://dev.to/tomeraitz/from-javascript-to-python-27l6)
 - [The Right Mindset To Solve Complex Problems](https://dev.to/tomeraitz/the-right-mindset-to-solve-complex-problems-1gc6)
@@ -45,9 +42,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/tomer-raitz-13b64911b/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png"/></a>  
-&nbsp; <a href="https://stackoverflow.com/users/10055871/tomer-raitz" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent-systems-filled/54/4a90e2/stackoverflow.png"/></a>  
-&nbsp; <a href="mailto:tomeraitz1@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/tomer-raitz-13b64911b/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png"/></a> 
+&nbsp; <a href="https://stackoverflow.com/users/10055871/tomer-raitz" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent-systems-filled/54/4a90e2/stackoverflow.png"/></a> 
+&nbsp; <a href="mailto:tomeraitz1@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
 </p>
 
 ⭐️ From [tomeraitz](https://github.com/tomeraitz)
